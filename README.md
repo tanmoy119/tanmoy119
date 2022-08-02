@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/55f3b6e1f4068cb3dba65736b0698d71/tumblr_o78r0u1jim1vur2auo1_1280.gifv)
+![MasterHead](https://i.redd.it/yy49p6gm8wb71.gif)
 <h1 align="center">Hi 👋, I'm Tanmoy Barman</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"/>
